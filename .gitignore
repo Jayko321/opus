@@ -89,3 +89,5 @@ src/x64
 .vs/
 .vscode/
 CMakeSettings.json
+*.filters
+*.vcxproj
